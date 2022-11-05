@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "923988420574",
+    "project_id": "dokterku-3693c",
+    "storage_bucket": "dokterku-3693c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923988420574:android:830ff2ff5dead615381f4f",
+        "android_client_info": {
+          "package_name": "com.example.dokterku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923988420574-lit8qvp3j0cl8vlhmp67evb7n9skfes2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuaWfhjSAEyM3uVKFuEtYvEoV9g63A6HI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923988420574-lit8qvp3j0cl8vlhmp67evb7n9skfes2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
